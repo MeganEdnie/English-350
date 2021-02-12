@@ -1,5 +1,7 @@
 **Project:** Jheronimus Bosch, The Garden of Earthly Delights
+
 **Project Director(s):** Pieter van Huijstee
+
 **Project URL:** https://archief.ntr.nl/tuinderlusten/en.html#/info/about
 
 This website takes the viewer on a tour through The Garden of Earthly Delights triptych, which is a painting on three different connected panels, by Jheronimus Bosch. The painting itself exclaims the intricacies of both good and bad in the world. It delves deeply into the world displayed differently in each panel. The painting is clearly exhibited on the website, able to be viewed by those who are fans of either Bosch or art in general. The Bosch project is supported by the Dutch television network NPO2 and fonds21, a fund created for the advancement of art and culture for the youth. While the supporters are listed, it is very difficult to locate the programming interface behind the website. In order to understand the creation of this website, it would be beneficial to have this information more forthcoming.
