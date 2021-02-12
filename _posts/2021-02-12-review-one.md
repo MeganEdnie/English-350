@@ -22,8 +22,8 @@ Regarding the self-guided tour, any section of the triptych is able to be select
 
 The way the project flows along with the paired voiceover provides a great explanation of what is transpiring in the specific scene. Although, the website only provides an English and Dutch translation limiting the scope of people able to fully access the tour. With the project originating in the Netherlands, even the initial pop-up to allow cookies is strictly in Dutch. If there were to be a wider range of voiceover languages and website translations, more art enthusiasts from around the world would be able to utilize this documentary. 
 
-Despite this language barrier, the project is multi-faceted employing several digital platforms that attract the viewer. Voiceover, additional audio overlay, clear visuals and on screen text to follow along are all provided simultaneously. The music does begin automatically and the option to turn it on could be valuable. If one were to get overwhelmed, the audio can be muted, text can be minimized and the voiceover can be manually paused and played. This displays the website developers thought about the possible annoyances with a convergence of so many features and gave options to lessen them.
-
 ![A screenshot of cookies pop-up in Dutch](https://meganednie.github.io/English-350/images/Photo3.png)
+
+Despite this language barrier, the project is multi-faceted employing several digital platforms that attract the viewer. Voiceover, additional audio overlay, clear visuals and on screen text to follow along are all provided simultaneously. The music does begin automatically and the option to turn it on could be valuable. If one were to get overwhelmed, the audio can be muted, text can be minimized and the voiceover can be manually paused and played. This displays the website developers thought about the possible annoyances with a convergence of so many features and gave options to lessen them.
 
 Overall, the Bosch project does a great job of bringing this piece of art to life. It makes it accessible to those who are not able to see it in person at the Museo Nacional del Prado in Spain.  
