@@ -1,4 +1,4 @@
-#The Digitization of "The Yellow Wall-paper"
+# The Digitization of "The Yellow Wall-paper"
 
 The purpose of the past two weeks has been for our class to collectively digitize ”The Yellow Wall-paper” written by Charlotte Perkins Stetson. This short story details a woman battling what is now known as postpartum depression. It shows the extreme detriments of strict gender roles, bringing to light the issues women faced in the late 19th century. We worked to transform her manuscript into digital form through Text Coding Initiative (TEI) whilst using Extensible Markup Language (XML).  
 
