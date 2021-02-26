@@ -8,6 +8,8 @@ After familiarizing ourselves on the importance of marking up text, and reviewin
  
 When we first started using Oxygen, the XML tags seemed daunting with this being an entirely new subject for me. Like Annette Vee said in her “Programming as Literacy” chapter, “the parallels between programming and writing are quite apt” (2017). It truly was understanding a different language. I have only taken one coding course prior to this semester and we coded in R. R is a very different programming language, so it was not a beneficial prerequisite to using the Oxygen platform. 
 
+![A screenshot of Megan’s markup in Google Docs](https://meganednie.github.io/English-350/images/googlemarkup.png)
+
 I tried to follow along in class but found it difficult to both learn about Oxygen and work in it simultaneously. I was grateful that Dr. Stover recorded the direction part of her lecture for later viewing purposes. After my first Oxygen attempt, my computer froze when I went to save, causing me to lose all prior work. This put me at a disadvantage during our TEI Troubleshooting class, as I had no code completed and was not able to ask questions.
 
 ![A screenshot of Megan’s Oxygen code](https://meganednie.github.io/English-350/images/oxygen.png)
