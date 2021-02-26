@@ -10,4 +10,6 @@ When we first started using Oxygen, the XML tags seemed daunting with this being
 
 I tried to follow along in class but found it difficult to both learn about Oxygen and work in it simultaneously. I was grateful that Dr. Stover recorded the direction part of her lecture for later viewing purposes. After my first Oxygen attempt, my computer froze when I went to save, causing me to lose all prior work. This put me at a disadvantage during our TEI Troubleshooting class, as I had no code completed and was not able to ask questions.
 
+![A screenshot of Megan’s Oxygen code](https://meganednie.github.io/English-350/images/oxygen.png)
+
 Once I was able to follow along with the video and continuously save my work, everything became so much more clear. I was able to markup the text line by line using my comments in Google Docs. The markup process became enjoyable and every time my code validated I felt a sense of pride. It was fulfilling to go into Oxygen’s Author view and see Stetson's manuscript in a digital format. Knowing I was able to contribute to this collaborative DH project while familiarizing myself with this work of Charlotte Stetson was an enjoyable experience.
