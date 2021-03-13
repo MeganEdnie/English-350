@@ -1,6 +1,6 @@
 ## Project: SELFIECITY
-## **Project Director(s):** Dr. Lev Manovich and Moritz Stefaner
-## **Project URL:** http://selfiecity.net
+## Project Director(s): Dr. Lev Manovich and Moritz Stefaner
+## Project URL: http://selfiecity.net
 
 **Summary** 
 
