@@ -8,6 +8,8 @@ There are a plethora of digital humanities projects that feature social media at
 
 Writing this grant has opened my eyes to what truly goes into the process. Prior to this class, I had heard about grants, but had never read or written one. Not only are you selling your idea but you are selling yourself by including a resume/CV and writing persuasively. This is an appeal to get an institution to fund an individual's project, so it must have stated benefits. As I went through I realized I had to be thorough but concise, meaning I had to say a lot in a small amount of space. 
 
+![A screenshot of a tweet by Megan](https://meganednie.github.io/English-350/images/granttweet.jpeg)
+
 **Semester Review**
 
 Coming into this class, I did not know what to expect. Besides the paragraph explanation in the undergraduate catalog, I was not familiar with DH. After this semester, I think of DH as an integration of the humanities into the digital era. I do not think my definition has necessarily changed, as it is pretty rudimentary, but my perception of DH did. I am now able to spot instances in which DH is being used and can evaluate its importance to each project. This ability has evolved throughout the semester due to class periods spent on deciphering DH. (Side note: Next semester you should title one of your initial lecture slides: “Deciphering DH”, I just love how that sounds).
